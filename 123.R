@@ -1,0 +1,8 @@
+library(tidyverse)
+library(tidyquant)
+library(tidymodels)
+library(timetk)
+library(tibbletime)
+library(tidytext)
+library(tidyverse)
+library(tidytext)
